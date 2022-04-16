@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML/CSS, JavaScrips, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
+  🦄 Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
 </p>
 
 <p align="left">
