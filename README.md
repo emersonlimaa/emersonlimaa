@@ -2,15 +2,19 @@
 
 <p align="left"> 
   Olá, meu nome é Emerson e sou <strong>Desenvolvedor FullStack JS</strong>.<br>
-  Atualmente sou desenvolvedor freelancer, crio projetos para empresas e profissionais, em busca também de ter experiências formais dentro de uma empresa com os mesmos objetivos que eu: <strong>Inovação e Melhorias</strong> para melhor soluções de problemas.
+  Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
+  🖥️ Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
 </p>
 
 <p align="left">
-  💌 Abaixo tem os links para me contatar: ⤵️
+   🛠️ Ferramentas: <strong>VS Code, GIT e Github, Notion, Vercel, Figma</strong>
+</p>
+
+<p align="left">
+  🔗 Abaixo tem os links para me contatar: ⤵️
 </p>
 
 <p align="left">
