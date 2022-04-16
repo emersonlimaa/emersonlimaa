@@ -13,7 +13,7 @@
   💌 Abaixo tem os links para me contatar: ⤵️
 </p>
 
-<p align="center">
+<p align="left">
 
 
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
