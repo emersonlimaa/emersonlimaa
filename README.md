@@ -14,15 +14,15 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:emerson00lima00@gmail.com?subject=Hello%20again" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin/in/emersonslima" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5589994003153"/></a>
+  <a href="https://linkedin/in/emersonslima" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin/in/emersonslima"/>
+  </a>
 
-  <a href="https://www.instagram.com/emersonslima7/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
+  <a href="https://wa.me/+5589994003153" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/></a>
+
+  <a href="https://www.instagram.com/emersonslima7/" target="_blank" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/emersonslima7"/></a>
 </p>  
