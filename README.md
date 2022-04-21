@@ -3,14 +3,14 @@
 <h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
-  Sou <strong>Desenvolvedor FullStack JS</strong>.<br>
+  Sou <strong>Desenvolvedor FullStack Jr</strong>.
   Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
 ## 🛠️ &nbsp; Tecnologias que domino
 
-<img align="center" alt="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" 
-src=""/>
+<img align="center" alt="" 
+src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img align="center" alt="" 
 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -18,8 +18,8 @@ src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=r
 <img align="center" alt="" 
 src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="center" alt="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" 
-src=""/>
+<img align="center" alt="" 
+src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img align="center" alt="" 
 src=""/>
@@ -27,11 +27,11 @@ src=""/>
 <img align="center" alt="" 
 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img align="center" alt="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
-src=""/>
+<img align="center" alt="" 
+src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img align="center" alt="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
-src=""/>
+<img align="center" alt="" 
+src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img align="center" alt="" 
 src=""/>
