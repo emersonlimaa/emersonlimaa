@@ -7,15 +7,21 @@
   Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
-<p align="left">
-  🖥️ Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
-</p>
+  <h2>🖥️ Linguagens: </h2>
+   <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+   <a><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+   <a><img src=""/></a>
 
-
-   <h1>🛠️ Ferramentas:</h1>
+   <h2>🛠️ Ferramentas:</h2>
    <a><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
-   [Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-   [CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+   <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+   <a><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+   <a><img src="   https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
+"/></a>
+
 
 <p align="left">
   🔗 Abaixo tem os links para me contatar: ⤵️
