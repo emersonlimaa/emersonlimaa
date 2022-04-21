@@ -11,9 +11,11 @@
   🖥️ Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
 </p>
 
-<p align="left">
-   🛠️ Ferramentas: <strong>VS Code, GIT e Github, Notion, Vercel, Figma</strong>
-</p>
+
+   <h1>🛠️ Ferramentas:</h1>
+   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+   ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 <p align="left">
   🔗 Abaixo tem os links para me contatar: ⤵️
