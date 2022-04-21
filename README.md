@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge
 src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img align="center" alt="" 
-src=""/>
+src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 <img align="center" alt="" 
 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -36,13 +36,7 @@ src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=h
 <img align="center" alt="" 
 src=""/>
 
-<p align="left">
-   🛠️ Ferramentas: <strong>VS Code, GIT e Github, Notion, Vercel, Figma</strong>
-</p>
-
-<p align="left">
-  🔗 Abaixo tem os links para me contatar: ⤵️
-</p>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&themetokyonight" alt="EmersonLimaa"/>
 
 <p align="left">
 
