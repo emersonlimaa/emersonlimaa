@@ -7,35 +7,31 @@
 </p>
 
 ## 🛠️ &nbsp; Tecnologias que domino
-<p align="left">
-  <img align="left" alt="" 
+
+  <p align="left">
+  <img alt="" align="left"
   src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-  <img align="left" alt="" 
-  src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-  <img align="left" alt="" 
+  <img alt="" align="left"
   src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </p>
 
-  <img align="left" alt="" 
-  src=""/>
-</p>
-
+<br><br>
 
 <p align="left">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&theme=tokyonight" alt="EmersonLimaa"/>
