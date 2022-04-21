@@ -36,9 +36,13 @@ src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=h
 <img align="center" alt="" 
 src=""/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&theme=tokyonight" alt="EmersonLimaa"/>
+<p align="left">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&theme=tokyonight" alt="EmersonLimaa"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&theme=tokyonight"/> 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&theme=tokyonight"/>
+</p>
+
+ 
 
 <p align="left">
 
