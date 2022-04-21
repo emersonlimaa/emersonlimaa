@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
+<h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"></>
+
 <p align="left"> 
-  Olá, meu nome é Emerson e sou <strong>Desenvolvedor FullStack JS</strong>.<br>
+  Sou <strong>Desenvolvedor FullStack JS</strong>.<br>
   Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
