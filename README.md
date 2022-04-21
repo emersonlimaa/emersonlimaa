@@ -7,9 +7,34 @@
   Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
-<p align="left">
-  🖥️ Linguagens: <strong>HTML/CSS, JavaScript, React.JS, Node.JS, Next.JS, Mongo.DB, MySQL,React Native</strong>
-</p>
+## 🛠️ &nbsp; Tecnologias que domino
+
+<img align="center" alt="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" 
+src=""/>
+
+<img align="center" alt="" 
+src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt="" 
+src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img align="center" alt="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" 
+src=""/>
+
+<img align="center" alt="" 
+src=""/>
+
+<img align="center" alt="" 
+src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img align="center" alt="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
+src=""/>
+
+<img align="center" alt="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
+src=""/>
+
+<img align="center" alt="" 
+src=""/>
 
 <p align="left">
    🛠️ Ferramentas: <strong>VS Code, GIT e Github, Notion, Vercel, Figma</strong>
