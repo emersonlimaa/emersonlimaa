@@ -2,7 +2,7 @@
 <h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
-  Sou <strong>Desenvolvedor FullStack Jr</strong>.
+    Sou <strong>Desenvolvedor FullStack JS</strong>.
   Atualmente sou desenvolvedor freelancer, criando projetos para empresas e profissionais, enquanto curso Análise e desenvolvimento de sistemas.
 </p>
 
