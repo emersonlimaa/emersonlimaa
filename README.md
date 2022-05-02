@@ -2,7 +2,7 @@
 <h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
-    Sou <strong>Desenvolvedor JS</strong>. Apaixonado por conhecimento e por aprender com cada oportunidade que tenho ao realizar algum projeto pessoal ou para empresas. Meu objetivo como programador/desenvolvedor é poder criar programas e aplicações cada vez mais inovadoras utilizando a tecnologia como meio para isso. Atualmente eu sou um desenvolvedor freelancer e curso Análise e desenvolvimento de sistemas. Tem uma ideia legal e precisa de um desenvolvedor que busca aprender e solucionar os problemas das melhores formas? Vamos trocar uma ideia no link da minha bio.
+    Sou <strong>Desenvolvedor JS</strong>. Sou apaixonado por conhecimento e por aprender com cada oportunidade que tenho ao realizar algum projeto pessoal ou para empresas. Meu objetivo como desenvolvedor é poder criar programas e aplicações cada vez mais inovadoras utilizando a tecnologia como meio para isso. Atualmente eu sou um desenvolvedor freelancer e curso Análise e desenvolvimento de sistemas. Tem uma ideia legal e precisa de um desenvolvedor que busca aprender e solucionar os problemas das melhores formas? Vamos trocar uma ideia no link da minha bio.
 </p>
 
 <div style:"display: inline-block">
