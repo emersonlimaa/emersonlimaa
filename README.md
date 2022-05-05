@@ -2,7 +2,7 @@
 <h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
-    Sou <strong>Desenvolvedor JS</strong>. Sou apaixonado por conhecimento e por aprender com cada oportunidade que tenho ao realizar algum projeto pessoal ou para empresas. Meu objetivo como desenvolvedor é poder criar programas e aplicações cada vez mais inovadoras utilizando a tecnologia como meio para isso. Atualmente eu sou um desenvolvedor freelancer e curso Análise e desenvolvimento de sistemas. Tem uma ideia legal e precisa de um desenvolvedor que busca aprender e solucionar os problemas das melhores formas? Vamos trocar uma ideia no link da minha bio.
+   I'm <strong>JS Developer</strong>. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development. Have a cool idea and need a developer looking to learn and solve problems in the best ways? Let's exchange an idea on the link in my bio.
 </p>
 
 <div style:"display: inline-block">
