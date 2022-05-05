@@ -1,5 +1,5 @@
 
-<h1>Salve, Salve! Eu sou o Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Hello, my name is Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
    I'm <strong>JS Developer</strong>. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development. Have a cool idea and need a developer looking to learn and solve problems in the best ways? Let's exchange an idea on the link in my bio.
@@ -22,7 +22,7 @@
   <img alt="" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
   </div>
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end and databases:</h3>
 
   <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
