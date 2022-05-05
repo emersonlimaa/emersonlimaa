@@ -46,5 +46,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/></a>
 
   <a href="https://www.instagram.com/emersonslima7/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/emersonslima7"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/merscodes_"/></a>
 </p>  
