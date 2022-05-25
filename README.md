@@ -1,3 +1,4 @@
+![github-header-image](https://user-images.githubusercontent.com/86153023/170290946-6c7e274b-0f94-473d-b433-11ee46512d1d.png)
 
 <h1>Hello, my name is Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
