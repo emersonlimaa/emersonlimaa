@@ -1,9 +1,9 @@
-![github-header-image](https://user-images.githubusercontent.com/86153023/170290946-6c7e274b-0f94-473d-b433-11ee46512d1d.png)
+![github-header-image](https://user-images.githubusercontent.com/86153023/170293501-c16fb637-f6ec-4b81-bbff-803e2020f712.png)
 
-<h1>Hello, my name is Emerson Lima<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="left"> 
-   I'm <strong>JS Developer</strong>. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development. Have a cool idea and need a developer looking to learn and solve problems in the best ways? Let's exchange an idea on the link in my bio.
+   I'm <strong>Front End Developer</strong>. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development. Have a cool idea and need a developer looking to learn and solve problems in the best ways? Let's exchange an idea on the link in my bio.
 </p>
 
 <div style:"display: inline-block">
@@ -47,5 +47,5 @@
   <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/></a>
 
   <a href="https://www.instagram.com/emersonslima7/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/merscodes_"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/merscodes"/></a>
 </p>  
