@@ -1,8 +1,8 @@
 
-<h1>Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">My name is Emerson</h1>
+<h1>Hello,mMy name is Emerson Lima</h1>
 
 <p align="left"> 
-   I'm <strong>Fullstack JavaScript Developer</strong> with a Focus on mobile and web. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development.
+   I'm <strong>FrontEndDeveloper</strong> with a Focus on mobile and web. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development.
 </p>
 
 <div style:"display: inline-block">
