@@ -1,8 +1,8 @@
 
-<h1>Hello, my name is Emerson Lima</h1>
+## Welcome, I'm Emerson Lima
 
 <p align="left"> 
-   I'm <strong>FrontEnd Developer</strong> with a Focus on mobile and web. I am passionate about knowledge and learning from every opportunity I have when carrying out a personal project or for companies. My goal as a developer is to be able to create increasingly innovative programs and applications using technology as a means of doing so. Currently I'm a freelance developer and I'm studying Systems Analysis and Development.
+   I'm a Front End Developer. I am passionate about knowledge and learning. My goal as a developer is to be able to create increasingly innovative programs and applications using technology and creativity as a means of doing so. I am currently studying development with JavaScript, ReactJS, NodeJS and React Native at Rocketseat and studying Systems Analysis and Development.
 </p>
 
 <div style:"display: inline-block">
