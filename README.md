@@ -30,8 +30,7 @@
 
 
 <p align="left">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&theme=tokyonight" alt="EmersonLimaa"/>
-   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=6)](https://github.com/emersonlimaa/github-readme-statsCompact&theme=radical"/>
+ <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=6)(https://github.com/emersonlimaa/github-readme-statsCompact&theme=radical"/>
 </p>
 
  
