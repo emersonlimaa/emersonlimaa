@@ -23,11 +23,9 @@
   </div>
 
 <h3>⚙️ &nbsp;Back-end and databases:</h3>
-
   <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 
 <p align="left">
  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=6)(https://github.com/emersonlimaa/github-readme-statsCompact&theme=radical"/>
@@ -36,13 +34,13 @@
  
 
 <p align="left">
-
-
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
   </a>
-
   <a href="https://wa.me/+5589994003153" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/></a>
-
+  <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/>
+  </a>
+  <a href="https://instagram.com/emersonlimaa7" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-instagram-6610F2?style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/emersonlimaa7"/>
+  </a>
 </p>  
