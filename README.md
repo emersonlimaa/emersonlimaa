@@ -1,11 +1,24 @@
+<h1 align='center'>
+  Hi there 👋 I'm Emerson 👨‍💻
+</h1>
 
-## Welcome, I'm Emerson Lima
-
-<p align="left"> 
-   I'm a Front End Developer. I am passionate about knowledge and learning. My goal as a developer is to be able to create increasingly innovative programs and applications using technology and creativity as a means of doing so. I am currently studying development with JavaScript, ReactJS, NodeJS and React Native at Rocketseat and studying Systems Analysis and Development.
+<p align="center"> 
+   Web and Mobile developer from Brazil
 </p>
 
-<div style:"display: inline-block">
+<p align="center">
+  <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
+  </a>
+  <a href="mailto:emerson.dev7@gmail.com?subject=Hello%20again" target="_blank" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/Gmail-6610f2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/emersonlimaa7" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-instagram-6610F2?style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/emersonlimaa7"/>
+  </a>
+</p> 
+
+<div align="center" style:"display: inline-block">
   
   <h2> 🛠 &nbsp;Technologies and Languages</h2>
   <div display="inline block">
@@ -20,24 +33,17 @@
   <img alt="" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
   <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  <img alt="" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   </div>
    <br>
-<p align="left">
+<p align="center">
  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=6)(https://github.com/emersonlimaa/github-readme-statsCompact&theme=radical"/>
-</p>
-
- 
-
-<p align="left">
-  <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
-  </a>
-  <a href="https://wa.me/+5589994003153" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-6610F2?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF&link==https://wa.me/+5589994003153"/>
-  </a>
-  <a href="https://instagram.com/emersonlimaa7" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-instagram-6610F2?style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/emersonlimaa7"/>
-  </a>
-</p>  
+</p> 
