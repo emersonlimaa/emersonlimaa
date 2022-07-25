@@ -18,6 +18,13 @@
   </a>
 </p> 
 
+<div align="center">
+  <h2 align="center">About Me👨‍💻</h2>
+  <p>
+    <p>🛠    I'm currently working with React, React native, Node, Mysql, Postgres, Mongodb, among other technologies.</p>
+    <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
+</div>
+
 <div align="center" style:"display: inline-block">
   
   <h2> 🛠 &nbsp;Technologies and Languages</h2>
@@ -40,6 +47,8 @@
   <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
    <br>
 <p align="center">
