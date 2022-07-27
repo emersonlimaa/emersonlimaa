@@ -21,7 +21,7 @@
 <div align="center">
   <h2 align="center">About Me👨‍💻</h2>
   <p>
-    <p>🛠    I'm currently working with React, React native, Node, Mysql, Postgres, Mongodb, among other technologies.</p>
+    <p>🛠    I'm currently working with React, React native, Node, SQL, Mongodb, among other technologies.</p>
     <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
 </div>
 
