@@ -1,10 +1,15 @@
 <h1 align='center'>
-  Hi there 👋 I'm Emerson 👨‍💻
+  Hi👋 I'm Emerson Lima 👨‍💻
 </h1>
 
-<p align="center"> 
-   Web and Mobile developer from Brazil
-</p>
+<h3 align="center"> 
+  I'm Software Developer👨‍💻
+</h3>
+
+<div align="center">
+    <p>🛠  I currently working with Frontend using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
+    <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
@@ -18,36 +23,30 @@
   </a>
 </p> 
 
-<div align="center">
-  <h2 align="center">About Me👨‍💻</h2>
-  <p>
-    <p>🛠    I'm currently working with React, React native, Node, SQL, Mongodb, among other technologies.</p>
-    <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
-</div>
-
 <div align="center" style:"display: inline-block">
   
   <h2> 🛠 &nbsp;Technologies and Languages</h2>
   <div display="inline block">
-  
-  <img alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
-  <img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="Emerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Emerson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Emerson-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <img align="center" alt="Emerson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Emerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Emerson-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Emerson-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Emerson-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="Emerson-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="Emerson-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="Emerson-Postegres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Emerson-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="Emerson-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+
   </div>
    <br>
-<p align="center">
- <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=6)(https://github.com/emersonlimaa/github-readme-statsCompact&theme=radical"/>
-</p> 
+
+<div align="center">
+  <a href="https://github.com/emersonlimaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonlimaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
