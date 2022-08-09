@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
   </a>
-  <a href="mailto:emerson.dev7@gmail.com?subject=Hello%20again" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/Gmail-6610f2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p> 
 
 <div align="center" style:"display: inline-block">
