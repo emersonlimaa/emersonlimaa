@@ -18,9 +18,6 @@
   <a href="mailto:emerson.dev7@gmail.com?subject=Hello%20again" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/Gmail-6610f2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/emersonlimaa7" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-instagram-6610F2?style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/emersonlimaa7"/>
-  </a>
 </p> 
 
 <div align="center" style:"display: inline-block">
