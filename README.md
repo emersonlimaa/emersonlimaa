@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> 
-  I'm Software Developer👨‍💻
+  I'm Software Developer Frontend👨‍💻
 </h3>
 
 <div align="center">
