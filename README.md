@@ -15,6 +15,12 @@
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
   </a>
+   <a href="https://emersonlima.vercel.app/" target="_blank" alt="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-6610F2?style=for-the-badge&logo=Page&logoColor=FFFFFF&link=https://emersonlima.vercel.app/"/>
+  </a>
+  <a href="https://instagram.com/emersonslima7" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://instagram./emersonslima7"/>
+  </a>
 </p> 
 
 <div align="center" style:"display: inline-block">
