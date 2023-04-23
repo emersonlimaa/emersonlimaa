@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center"> 
-  I'm Software Developer Frontend👨‍💻
+  I'm Software Developer👨‍💻
 </h3>
 
 <div align="center">
-    <p>🛠  I currently working with Frontend using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
+    <p>🛠  I currently working with Fullstack development using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
     <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
 </div>
 
