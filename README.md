@@ -1,17 +1,16 @@
-<h1 align='left'>
+<h1 align='center'>
   Hi👋 I'm Emerson Lima 👨‍💻
 </h1>
 
-<h3 align="left"> 
+<h3 align="center"> 
   I'm Software Developer👨‍💻
 </h3>
-
-<div align="left">
+<div align="center">
     <p>🛠  I currently working with Fullstack development using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
     <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
   </a>
@@ -23,7 +22,7 @@
   </a>
 </p> 
 
-<div align="left" style:"display: inline-block">
+<div align="center" style:"display: inline-block">
   
   <h2> 🛠 &nbsp;Technologies and Languages</h2>
   <div display="inline block">
@@ -42,7 +41,7 @@
   </div>
    <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/emersonlimaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimaa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
