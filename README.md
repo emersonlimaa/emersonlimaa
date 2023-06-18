@@ -7,8 +7,7 @@
 </h3>
 <div align="center">
     <p>🛠  I currently working with Frontend development using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
-    <p>👦🏽‍💻 My learning channels: RocketSeat, Udemy, Youtube, Medium, Stackoverflowers and google.</p>
-</div>
+    </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
