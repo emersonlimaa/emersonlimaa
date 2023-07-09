@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/emersonslima" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://linkedin.com/in/emersonslima"/>
   </a>
-  <a href="https://instagram.com/emersonslima7" target="_blank" alt="Instagram">
+  <a href="https://instagram.com/emersonslima" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://instagram./emersonslima7"/>
   </a>
 </p> 
