@@ -6,7 +6,7 @@
   I'm Software Developer👨‍💻
 </h3>
 <div align="center">
-    <p>🛠  I currently working with Frontend development using TypeScript, JavaScript, React, React native, Node, SQL, Mongodb, among other technologies.</p>
+    <p>🛠  I currently working with Frontend development using TypeScript, JavaScript, React, React native, Node, SQL, among other technologies.</p>
     </div>
 
 <p align="center">
